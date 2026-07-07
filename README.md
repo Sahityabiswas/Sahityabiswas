@@ -6,21 +6,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sahityabiswas" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin" height="30" width="40" />
-</a>
-&nbsp;
-<a href="mailto:hereissahityadeybiswas@gmail.com" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/sahityabiswas5" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/kaggle" height="30" width="40" />
-</a>
-&nbsp;
-<a href="https://sahityabiswas.github.io/Portfolio/" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/sahityabiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:hereissahityadeybiswas@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sahityabiswas5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://sahityabiswas.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" /></a>
 
 <br/><br/>
 
@@ -57,29 +46,37 @@ class Sahitya:
 
 ## 🛠️ Tech Stack
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/r" alt="r" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/latex" alt="latex" width="40" height="40" />
+</p>
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<h3 align="left">AI / ML:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/matplotlib" alt="matplotlib" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40" />
+</p>
 
-### ⚡ Distributed & Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+<h3 align="left">Distributed & Big Data:</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apachespark" alt="apachespark" width="40" height="40" />
+</p>
 
-### 🔧 Tools & OS
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<h3 align="left">Tools & OS:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/github" alt="github" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/windows" alt="windows" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" width="40" height="40" />
+</p>
 
 ---
 
@@ -169,13 +166,8 @@ I'm always open to interesting conversations, research collaborations, or just t
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sahityabiswas" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hereissahityadeybiswas@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/sahityabiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:hereissahityadeybiswas@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" /></a>
 
 </div>
 
