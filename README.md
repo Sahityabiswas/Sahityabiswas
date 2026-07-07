@@ -59,7 +59,7 @@ class Sahitya:
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo_dark.svg" alt="matplotlib" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo_light.svg" alt="matplotlib" width="40" height="40" style="filter: invert(1)" />
 </p>
 
 <h3 align="left">Distributed & Big Data:</h3>
