@@ -60,7 +60,7 @@ class Sahitya:
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/matplotlib" alt="matplotlib" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo_dark.svg" alt="matplotlib" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40" />
 </p>
 
@@ -72,9 +72,9 @@ class Sahitya:
 <h3 align="left">Tools & OS:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/github" alt="github" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/windows" alt="windows" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" width="40" height="40" />
 </p>
 
