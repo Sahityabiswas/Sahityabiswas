@@ -6,20 +6,20 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sahityabiswas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sahityabiswas" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/linkedin" height="30" width="40" />
 </a>
 &nbsp;
-<a href="mailto:hereissahityadeybiswas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:hereissahityadeybiswas@gmail.com" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" />
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/sahityabiswas5" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="https://www.kaggle.com/sahityabiswas5" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/kaggle" height="30" width="40" />
 </a>
 &nbsp;
-<a href="https://sahityabiswas.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://sahityabiswas.github.io/Portfolio/" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" />
 </a>
 
 <br/><br/>
