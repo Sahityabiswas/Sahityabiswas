@@ -17,6 +17,10 @@
 <a href="https://www.kaggle.com/sahityabiswas5" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://sahityabiswas.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -168,11 +172,7 @@ I'm always open to interesting conversations, research collaborations, or just t
 <a href="https://www.linkedin.com/in/sahityabiswas" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://sahityabiswas.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="mailto:hereissahityadeybiswas@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
