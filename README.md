@@ -51,7 +51,6 @@ class Sahitya:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/r" alt="r" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/latex" alt="latex" width="40" height="40" />
 </p>
 
 <h3 align="left">AI / ML:</h3>
@@ -61,7 +60,6 @@ class Sahitya:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo_dark.svg" alt="matplotlib" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40" />
 </p>
 
 <h3 align="left">Distributed & Big Data:</h3>
