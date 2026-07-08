@@ -1,64 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <defs>
-    <style>
-      .title {
-        font-family: Georgia, "Times New Roman", serif;
-        font-size: 54px;
-        font-weight: 600;
-        fill: #13243d;
-      }
-      .stroke {
-        fill: none;
-        stroke: #13243d;
-        stroke-width: 8;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-      .fill {
-        fill: #13243d;
-      }
-    </style>
-  </defs>
-
-  <!-- Background -->
   <rect width="512" height="512" fill="#f8f6f2"/>
-
-  <!-- Title -->
-  <text x="256" y="85" text-anchor="middle" class="title">
-    Portfolio
-  </text>
-
-  <!-- Circle -->
-  <circle cx="256" cy="305" r="145" class="stroke"/>
-
-  <!-- Head -->
-  <circle cx="256" cy="250" r="38" class="fill"/>
-
-  <!-- Neck -->
-  <rect x="246" y="280" width="20" height="18" class="fill"/>
-
-  <!-- Shoulders -->
-  <path
-    d="M180 375
-       C180 325 215 305 256 305
-       C297 305 332 325 332 375
-       Z"
-    class="fill"/>
-
-  <!-- Jacket -->
-  <path
-    d="M220 315
-       L256 360
-       L292 315
-       L280 375
-       L232 375
-       Z"
-    fill="#f8f6f2"/>
-
-  <!-- Collar -->
-  <path
-    d="M240 315
-       L256 338
-       L272 315"
-    class="stroke"/>
+  <text x="256" y="85" text-anchor="middle" font-family="Georgia, &quot;Times New Roman&quot;, serif" font-size="54" font-weight="600" fill="#13243d">Portfolio</text>
+  <circle cx="256" cy="305" r="145" fill="none" stroke="#13243d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="250" r="38" fill="#13243d"/>
+  <rect x="246" y="280" width="20" height="18" fill="#13243d"/>
+  <path d="M180 375 C180 325 215 305 256 305 C297 305 332 325 332 375 Z" fill="#13243d"/>
+  <path d="M220 315 L256 360 L292 315 L280 375 L232 375 Z" fill="#f8f6f2"/>
+  <path d="M240 315 L256 338 L272 315" fill="none" stroke="#13243d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
