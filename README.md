@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/sahityabiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:hereissahityadeybiswas@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sahityabiswas5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://sahityabiswas.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/person-outline.svg" height="30" width="40" style="filter: invert(1)" /></a>
+<a href="https://sahityabiswas.github.io/Portfolio/" target="blank"><img align="center" src="portfolio_icon.svg" height="30" width="40" /></a>
 
 <br/><br/>
 
