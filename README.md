@@ -71,7 +71,7 @@ class Sahitya:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40" />
+  <img src="powerbi_icon.svg" alt="powerbi" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" width="40" height="40" />
 </p>
