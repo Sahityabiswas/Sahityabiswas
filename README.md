@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/sahityabiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:hereissahityadeybiswas@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sahityabiswas5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://sahityabiswas.github.io/Portfolio/" target="blank"><img align="center" src="portfolio_icon.svg" height="30" width="40" /></a>
+<a href="https://sahityabiswas.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sahityabiswas/Sahityabiswas/main/portfolio_icon.svg" height="30" width="40" /></a>
 
 <br/><br/>
 
@@ -59,7 +59,7 @@ class Sahitya:
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="python_logo.svg" alt="matplotlib" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Sahityabiswas/Sahityabiswas/main/python_logo.svg" alt="matplotlib" width="40" height="40" />
 </p>
 
 <h3 align="left">Distributed & Big Data:</h3>
@@ -71,7 +71,7 @@ class Sahitya:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="40" height="40" />
-  <img src="powerbi_icon.svg" alt="powerbi" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Sahityabiswas/Sahityabiswas/main/powerbi_icon.svg" alt="powerbi" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" width="40" height="40" />
 </p>
