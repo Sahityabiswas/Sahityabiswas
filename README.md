@@ -144,13 +144,13 @@ A distributed career recommendation platform using Apache Spark Master–Worker 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahityabiswas&theme=tokyonight" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahityabiswas&theme=tokyonight&show_icons=true" height="170em"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahityabiswas&theme=tokyonight" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahityabiswas&theme=tokyonight&layout=compact" height="170em"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sahityabiswas&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sahityabiswas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
