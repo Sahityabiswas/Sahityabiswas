@@ -101,7 +101,10 @@ class Sahitya:
 
 ### 🧪 SCENGEN — Automated GUI Testing Framework
 
-An LLM-guided Android GUI automation framework combining computer vision, OCR, multi-agent reasoning, and ADB-based device control for intelligent scenario-based testing. Dynamically understands mobile interfaces, plans actions using LLMs, and executes testing workflows without predefined scripts or fixed UI locators.
+- LLM-guided Android GUI automation for intelligent, scenario-based testing
+- Combines computer vision, OCR, and multi-agent reasoning for dynamic UI understanding
+- Plans and executes test workflows via ADB without predefined scripts or fixed locators
+- Adapts to interface changes autonomously — no manual locator maintenance required
 
 `LLM` `Computer Vision` `OCR` `ADB` `Multi-Agent`
 
@@ -110,7 +113,10 @@ An LLM-guided Android GUI automation framework combining computer vision, OCR, m
 
 ### 🤟 Gesture2Sentence — Sign Language Sentence Generation
 
-End-to-end ISL recognition system using hierarchical deep learning for ~2000 sign classes. Implements video preprocessing and MediaPipe-based keypoint extraction, with a T5-based language generation module that converts predicted sign keywords into grammatically correct sentences.
+- End-to-end ISL recognition covering ~2000 sign classes from video input
+- Hierarchical deep learning pipeline: video preprocessing → MediaPipe keypoint extraction → CTRGCN classification
+- T5-based language generation module converts predicted sign keywords into grammatically correct sentences
+- Bridges the gap between raw gesture recognition and meaningful natural language output
 
 `PyTorch` `MediaPipe` `T5` `CTRGCN` `Deep Learning`
 
@@ -121,7 +127,10 @@ End-to-end ISL recognition system using hierarchical deep learning for ~2000 sig
 
 ### 💼 JOB NEXUS — Career Recommendation Engine
 
-A distributed career recommendation platform using Apache Spark Master–Worker architecture for parallel job/skill processing, NLP-based skill extraction and semantic matching. Models career, skill, and course relationships in Neo4j graph databases with real-time Cosine Similarity scoring. Includes an interactive glassmorphic dashboard with "What-If" career path simulation.
+- Distributed career recommendation platform using Apache Spark Master–Worker architecture for parallel processing
+- NLP-based skill extraction and semantic matching against job and course databases
+- Models career, skill, and course relationships in Neo4j graph databases with Cosine Similarity scoring
+- Interactive glassmorphic Streamlit dashboard with "What-If" career path simulation
 
 `PySpark` `Neo4j` `NLP` `Cosine Similarity` `Streamlit`
 
@@ -130,7 +139,10 @@ A distributed career recommendation platform using Apache Spark Master–Worker 
 
 ### 🎓 CAMPUSBRIDGE — Student Management MCP
 
-A Model Context Protocol (MCP)-based student management system that streamlines academic workflows — from enrollment and course registration to performance tracking and communication — through an intelligent, context-aware interface.
+- Model Context Protocol (MCP)-based system streamlining end-to-end academic workflows
+- Handles student enrollment, course registration, attendance, and performance tracking
+- Context-aware intelligent interface for students, faculty, and administrators
+- Centralized communication hub for announcements, deadlines, and feedback
 
 `MCP` `Student Management` `Database`
 
@@ -141,7 +153,10 @@ A Model Context Protocol (MCP)-based student management system that streamlines 
 
 ### 🚦 CITYFLOW — Smart City Traffic Light Control
 
-A reinforcement learning-based smart traffic control system that adapts signal timings to real-time traffic at a four-way intersection. Uses lane-wise Q-learning — observing vehicle counts in each direction and deciding optimal signal phases.
+- Reinforcement learning-based smart traffic control for adaptive signal management
+- Lane-wise Q-learning observes vehicle counts in each direction in real time
+- Dynamically decides optimal signal phases to minimize wait times and congestion
+- Simulates a realistic four-way intersection with configurable traffic patterns
 
 `Reinforcement Learning` `Q-Learning` `Simulation`
 
@@ -150,7 +165,10 @@ A reinforcement learning-based smart traffic control system that adapts signal t
 
 ### 🌫️ AEROMETRIC — AQI Prediction System
 
-A machine learning pipeline for predicting Air Quality Index (AQI) from environmental and meteorological features. Combines data preprocessing, feature engineering, and model evaluation to deliver accurate, interpretable air quality forecasts.
+- Machine learning pipeline for predicting Air Quality Index from environmental and meteorological features
+- End-to-end data preprocessing, feature engineering, and model evaluation workflow
+- Compares multiple regression models for accurate, interpretable AQI forecasts
+- Visualizes pollutant trends and prediction performance for actionable air quality insights
 
 `Machine Learning` `AQI` `Prediction` `Scikit-Learn`
 
