@@ -106,7 +106,7 @@ class Sahitya:
 - Plans and executes test workflows via ADB without predefined scripts or fixed locators
 - Adapts to interface changes autonomously — no manual locator maintenance required
 
-`LLM` `Computer Vision` `OCR` `ADB` `Multi-Agent`
+`LLM` `Computer Vision` `OCR` `ADB` `Multi-Agent` `Android` `Automation` `Testing` `GPT` `LangChain`
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ class Sahitya:
 - T5-based language generation module converts predicted sign keywords into grammatically correct sentences
 - Bridges the gap between raw gesture recognition and meaningful natural language output
 
-`PyTorch` `MediaPipe` `T5` `CTRGCN` `Deep Learning`
+`PyTorch` `MediaPipe` `T5` `CTRGCN` `Deep Learning` `NLP` `ISL` `Computer Vision` `Video Processing`
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ class Sahitya:
 - Models career, skill, and course relationships in Neo4j graph databases with Cosine Similarity scoring
 - Interactive glassmorphic Streamlit dashboard with "What-If" career path simulation
 
-`PySpark` `Neo4j` `NLP` `Cosine Similarity` `Streamlit`
+`PySpark` `Neo4j` `NLP` `Cosine Similarity` `Streamlit` `Graph Database` `Recommendation` `Data Engineering` `Big Data`
 
 </td>
 <td width="50%" valign="top">
@@ -144,7 +144,7 @@ class Sahitya:
 - Context-aware intelligent interface for students, faculty, and administrators
 - Centralized communication hub for announcements, deadlines, and feedback
 
-`MCP` `Student Management` `Database`
+`MCP` `Student Management` `Database` `Academic` `Education` `API` `Web Application`
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ class Sahitya:
 - Dynamically decides optimal signal phases to minimize wait times and congestion
 - Simulates a realistic four-way intersection with configurable traffic patterns
 
-`Reinforcement Learning` `Q-Learning` `Simulation`
+`Reinforcement Learning` `Q-Learning` `Simulation` `Smart City` `Traffic` `Optimization` `Python`
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +170,7 @@ class Sahitya:
 - Compares multiple regression models for accurate, interpretable AQI forecasts
 - Visualizes pollutant trends and prediction performance for actionable air quality insights
 
-`Machine Learning` `AQI` `Prediction` `Scikit-Learn`
+`Machine Learning` `AQI` `Prediction` `Scikit-Learn` `Environmental` `Regression` `Data Science` `Visualization`
 
 </td>
 </tr>
